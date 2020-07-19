@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+  background-color: #e8505b;
+  margin-left: 10%;
+}
+
+h2 {
+  color: #f0ece3;
+  font-family: 'Lobster', cursive;
+  text-decoration: underline;
+  font-size: 2em;
+}
+
+textarea {
+  background-color: #f0ece3;
+  border-radius: 10px;
+  font-size: 1.1em;
+  border: 5px solid #dfd3c3;
+}
+
+#pirate{
+  width: 400px;
+  height: 200px;
+  font-family: 'Rock Salt', cursive;
+  font-size: 1.1em;
+}
+
+#normal{
+  width: 400px;
+  height: 200px;
+  font-family: 'Arial'
+ 
+}
